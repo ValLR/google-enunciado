@@ -5797,5 +5797,93 @@ button.close {
 @media print {
   .hidden-print {
     display: none !important; } }
+body {
+  padding: 0;
+  margin: 0;
+  max-width: 100%;
+  background-color: #FFFFFF;
+  font-family: 'Raleway', sans-serif;
+  color: #414549; }
+  body .lblue {
+    border: 2px solid #4285f4; }
+  body .grey {
+    border: 1px solid #5f6368; }
+  body .one {
+    padding: 0px 10px 34px 10px; }
+    body .one .navbar-default {
+      background-color: #FFFFFF;
+      border-color: #FFFFFF; }
+    body .one .big-logo {
+      height: 190px;
+      width: auto; }
+    body .one h2 {
+      padding-left: 20px;
+      margin-top: 30px;
+      font-weight: bolder;
+      margin-bottom: 13px; }
+    body .one .negrita {
+      padding-left: 20px;
+      font-weight: bolder;
+      margin-bottom: 18px; }
+    body .one .body {
+      padding-left: 20px; }
+    body .one .light {
+      padding-left: 20px;
+      color: #5f6368;
+      margin-bottom: 30px; }
+  body .two {
+    margin-top: 30px;
+    padding: 0 20px 30px 20px; }
+    body .two .tiny-title {
+      font-weight: bolder;
+      font-size: 30px;
+      margin-bottom: 24px; }
+    body .two .more {
+      color: #4285f4;
+      font-weight: bold;
+      text-align: right;
+      margin-bottom: 30px; }
+    body .two .date {
+      color: #5f6368;
+      font-size: 12px; }
+    body .two h4 {
+      font-weight: bolder;
+      margin-bottom: 20px; }
+    body .two .bodyxs {
+      font-size: 15px;
+      margin-bottom: 22px; }
+    body .two .grey-box {
+      margin: 20px 0;
+      background-color: #424242; }
+      body .two .grey-box .box-text {
+        font-weight: bolder; }
+      body .two .grey-box .box-blue {
+        color: #4285f4;
+        font-weight: bolder; }
+  body .three {
+    padding: 40px 20px; }
+    body .three h4 {
+      padding-left: 10px;
+      font-weight: bolder;
+      margin: 23px 0; }
+    body .three .bodyxs {
+      padding-left: 10px;
+      font-size: 15px; }
+    body .three .light {
+      padding-left: 10px;
+      font-size: 12px;
+      color: #5f6368;
+      margin: 10px 0 20px 0; }
+  body footer {
+    margin: 20px 0 40px 30px;
+    padding-left: 20px; }
+    body footer .title {
+      font-weight: bolder; }
+    body footer .body {
+      font-size: 12px; }
+    body footer .pandt {
+      text-align: right;
+      margin-top: 20px;
+      font-weight: bolder; }
 
 /*# sourceMappingURL=main.css.map */

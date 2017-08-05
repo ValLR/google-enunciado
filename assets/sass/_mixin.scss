@@ -1,0 +1,18 @@
+@mixin reinicia(){
+	padding:0;
+	margin:0;
+    max-width: 100%;
+    background-color:$white;
+    font-family: 'Raleway', sans-serif;
+}
+@mixin blueLine(){
+	border:2px solid $blue;
+}
+@mixin greyLine(){
+	border:1px solid $lGrey;
+}
+@mixin greyBox(){
+	margin: 20px 0;
+	background-color:$dGrey;
+;
+}
