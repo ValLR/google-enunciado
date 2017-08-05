@@ -1,5 +1,6 @@
 body{
 	@include reinicia();
+	height:auto;
 	color:$text;
 	.lblue{
 		@include blueLine();
@@ -95,6 +96,7 @@ body{
 	footer{
 		margin:20px 0 40px 30px;
 		padding-left:20px;
+		height:1000px;
 
 		.title{
 			font-weight:bolder;
