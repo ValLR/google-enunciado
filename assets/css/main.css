@@ -5884,6 +5884,9 @@ body {
     body footer .pandt {
       text-align: right;
       margin-top: 20px;
-      font-weight: bolder; }
+      font-weight: bolder;
+      padding-right: 100px; }
+    body footer img {
+      padding-left: 100px; }
 
 /*# sourceMappingURL=main.css.map */
